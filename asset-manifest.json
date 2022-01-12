@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AhmedMohamedFathyAhmed/Netflix-Film.git/static/css/main.d3d9989d.chunk.css",
+    "main.js": "/AhmedMohamedFathyAhmed/Netflix-Film.git/static/js/main.cfea7c46.chunk.js",
+    "main.js.map": "/AhmedMohamedFathyAhmed/Netflix-Film.git/static/js/main.cfea7c46.chunk.js.map",
+    "runtime-main.js": "/AhmedMohamedFathyAhmed/Netflix-Film.git/static/js/runtime-main.bf9d6fe0.js",
+    "runtime-main.js.map": "/AhmedMohamedFathyAhmed/Netflix-Film.git/static/js/runtime-main.bf9d6fe0.js.map",
+    "static/css/2.6b282387.chunk.css": "/AhmedMohamedFathyAhmed/Netflix-Film.git/static/css/2.6b282387.chunk.css",
+    "static/js/2.5d56c0d3.chunk.js": "/AhmedMohamedFathyAhmed/Netflix-Film.git/static/js/2.5d56c0d3.chunk.js",
+    "static/js/2.5d56c0d3.chunk.js.map": "/AhmedMohamedFathyAhmed/Netflix-Film.git/static/js/2.5d56c0d3.chunk.js.map",
+    "index.html": "/AhmedMohamedFathyAhmed/Netflix-Film.git/index.html",
+    "static/css/2.6b282387.chunk.css.map": "/AhmedMohamedFathyAhmed/Netflix-Film.git/static/css/2.6b282387.chunk.css.map",
+    "static/css/main.d3d9989d.chunk.css.map": "/AhmedMohamedFathyAhmed/Netflix-Film.git/static/css/main.d3d9989d.chunk.css.map",
+    "static/js/2.5d56c0d3.chunk.js.LICENSE.txt": "/AhmedMohamedFathyAhmed/Netflix-Film.git/static/js/2.5d56c0d3.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/AhmedMohamedFathyAhmed/Netflix-Film.git/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf9d6fe0.js",
+    "static/css/2.6b282387.chunk.css",
+    "static/js/2.5d56c0d3.chunk.js",
+    "static/css/main.d3d9989d.chunk.css",
+    "static/js/main.cfea7c46.chunk.js"
+  ]
+}
